@@ -1,0 +1,3218 @@
+
+textures.png
+size: 4096,4096
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+FriendlyNPC's/MaleVillager_Spritesheet
+  rotate: false
+  xy: 1, 3037
+  size: 1920, 320
+  orig: 1920, 320
+  offset: 0, 0
+  index: -1
+UI/Game Controls
+  rotate: false
+  xy: 1602, 2151
+  size: 1200, 800
+  orig: 1200, 800
+  offset: 0, 0
+  index: -1
+UI/Settingscreen
+  rotate: false
+  xy: 2803, 2183
+  size: 775, 518
+  orig: 775, 518
+  offset: 0, 0
+  index: -1
+UI/gamecontrols2
+  rotate: false
+  xy: 1538, 1350
+  size: 1200, 800
+  orig: 1200, 800
+  offset: 0, 0
+  index: -1
+UI/player_stat_base
+  rotate: false
+  xy: 3148, 2702
+  size: 800, 600
+  orig: 800, 600
+  offset: 0, 0
+  index: -1
+background
+  rotate: false
+  xy: 2803, 1664
+  size: 775, 518
+  orig: 775, 518
+  offset: 0, 0
+  index: -1
+enemies/desert/boss/boss_minion/desert_boss_minion_spritesheet
+  rotate: false
+  xy: 1922, 2952
+  size: 1225, 350
+  orig: 1225, 350
+  offset: 0, 0
+  index: -1
+enemies/desert/boss/desert_boss_spritesheet
+  rotate: false
+  xy: 1, 3358
+  size: 2500, 714
+  orig: 2500, 714
+  offset: 0, 0
+  index: -1
+enemies/swamp/boss/swamp_boss_spritesheet_left
+  rotate: false
+  xy: 1538, 1
+  size: 960, 320
+  orig: 960, 320
+  offset: 0, 0
+  index: -1
+enemies/tundra/boss/tundra_boss_spritesheet
+  rotate: false
+  xy: 2563, 349
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+enemies/volcano/boss/volcano_boss_spritesheet_left
+  rotate: false
+  xy: 1, 2396
+  size: 1600, 640
+  orig: 1600, 640
+  offset: 0, 0
+  index: -1
+mech/mech_walk_down
+  rotate: false
+  xy: 1538, 1093
+  size: 1024, 256
+  orig: 1024, 256
+  offset: 0, 0
+  index: -1
+mech/mech_walk_left
+  rotate: false
+  xy: 1538, 836
+  size: 1024, 256
+  orig: 1024, 256
+  offset: 0, 0
+  index: -1
+mech/mech_walk_right
+  rotate: false
+  xy: 1538, 579
+  size: 1024, 256
+  orig: 1024, 256
+  offset: 0, 0
+  index: -1
+mech/mech_walk_up
+  rotate: false
+  xy: 1538, 322
+  size: 1024, 256
+  orig: 1024, 256
+  offset: 0, 0
+  index: -1
+player/player_attack_down
+  rotate: false
+  xy: 2502, 3688
+  size: 1536, 384
+  orig: 1536, 384
+  offset: 0, 0
+  index: -1
+player/player_attack_left
+  rotate: false
+  xy: 1, 2011
+  size: 1536, 384
+  orig: 1536, 384
+  offset: 0, 0
+  index: -1
+player/player_attack_right
+  rotate: false
+  xy: 1, 1626
+  size: 1536, 384
+  orig: 1536, 384
+  offset: 0, 0
+  index: -1
+player/player_attack_up
+  rotate: false
+  xy: 1, 1241
+  size: 1536, 384
+  orig: 1536, 384
+  offset: 0, 0
+  index: -1
+player/player_walk_down
+  rotate: false
+  xy: 1, 856
+  size: 1536, 384
+  orig: 1536, 384
+  offset: 0, 0
+  index: -1
+player/player_walk_left
+  rotate: false
+  xy: 1, 471
+  size: 1536, 384
+  orig: 1536, 384
+  offset: 0, 0
+  index: -1
+player/player_walk_right
+  rotate: false
+  xy: 1, 86
+  size: 1536, 384
+  orig: 1536, 384
+  offset: 0, 0
+  index: -1
+player/player_walk_up
+  rotate: false
+  xy: 2502, 3303
+  size: 1536, 384
+  orig: 1536, 384
+  offset: 0, 0
+  index: -1
+
+textures2.png
+size: 4096,4096
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+FriendlyNPC's/MaleVillager
+  rotate: false
+  xy: 2016, 2239
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+FriendlyNPC's/Rogue
+  rotate: false
+  xy: 2248, 2881
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+FriendlyNPC's/RogueFace
+  rotate: false
+  xy: 2337, 2560
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+FriendlyNPC's/Villagerface
+  rotate: false
+  xy: 2016, 1918
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+FriendlyNPC's/WizardFace
+  rotate: false
+  xy: 2337, 1918
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+FriendlyNPC's/merchant_front
+  rotate: false
+  xy: 2247, 560
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+FriendlyNPC's/merchant_left
+  rotate: false
+  xy: 1394, 1682
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+FriendlyNPC's/merchant_right
+  rotate: false
+  xy: 1284, 719
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+FriendlyNPC's/merchant_with_shades
+  rotate: false
+  xy: 1284, 398
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+FriendlyNPC's/wizard
+  rotate: false
+  xy: 2979, 1999
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+FriendlyNPC's/wizard_NPC_dialog
+  rotate: false
+  xy: 2979, 1678
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+FriendlyNPC's/wizard_face_left
+  rotate: false
+  xy: 3300, 2641
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+FriendlyNPC's/wizard_face_right
+  rotate: false
+  xy: 2247, 399
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+FriendlyNPC's/wizard_face_toward
+  rotate: false
+  xy: 3300, 2320
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+UI/Backbutton
+  rotate: false
+  xy: 502, 939
+  size: 462, 599
+  orig: 462, 599
+  offset: 0, 0
+  index: -1
+UI/CTS
+  rotate: false
+  xy: 502, 163
+  size: 334, 132
+  orig: 334, 132
+  offset: 0, 0
+  index: -1
+UI/CTS-1
+  rotate: false
+  xy: 3759, 3953
+  size: 335, 131
+  orig: 335, 131
+  offset: 0, 0
+  index: -1
+UI/LOADGAME
+  rotate: false
+  xy: 3759, 3821
+  size: 334, 131
+  orig: 334, 131
+  offset: 0, 0
+  index: -1
+UI/LOADGAME-1
+  rotate: false
+  xy: 502, 30
+  size: 334, 132
+  orig: 334, 132
+  offset: 0, 0
+  index: -1
+UI/SETTING
+  rotate: false
+  xy: 3759, 3690
+  size: 333, 130
+  orig: 333, 130
+  offset: 0, 0
+  index: -1
+UI/SETTING-1
+  rotate: false
+  xy: 3759, 3558
+  size: 333, 131
+  orig: 333, 131
+  offset: 0, 0
+  index: -1
+UI/SINGLEPLAYER
+  rotate: false
+  xy: 2324, 3240
+  size: 332, 129
+  orig: 332, 129
+  offset: 0, 0
+  index: -1
+UI/SINGLEPLAYER-1
+  rotate: false
+  xy: 1990, 3202
+  size: 333, 131
+  orig: 333, 131
+  offset: 0, 0
+  index: -1
+UI/Swordslider
+  rotate: false
+  xy: 2290, 3603
+  size: 506, 481
+  orig: 506, 481
+  offset: 0, 0
+  index: -1
+UI/mech_health_bar
+  rotate: false
+  xy: 2290, 3370
+  size: 345, 30
+  orig: 345, 30
+  offset: 0, 0
+  index: -1
+UI/player_exp_bar
+  rotate: false
+  xy: 1, 1
+  size: 303, 6
+  orig: 303, 6
+  offset: 0, 0
+  index: -1
+UI/player_health_bar
+  rotate: false
+  xy: 502, 296
+  size: 345, 30
+  orig: 345, 30
+  offset: 0, 0
+  index: -1
+UI/player_hurt_bar
+  rotate: false
+  xy: 770, 2324
+  size: 345, 30
+  orig: 345, 30
+  offset: 0, 0
+  index: -1
+UI/player_mech
+  rotate: false
+  xy: 2247, 882
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+UI/player_status_bar
+  rotate: false
+  xy: 1539, 3237
+  size: 450, 96
+  orig: 450, 96
+  offset: 0, 0
+  index: -1
+UI/speechbaloon
+  rotate: false
+  xy: 770, 2717
+  size: 700, 341
+  orig: 700, 341
+  offset: 0, 0
+  index: -1
+animationContainer/basic
+  rotate: false
+  xy: 752, 1588
+  size: 75, 76
+  orig: 75, 76
+  offset: 0, 0
+  index: -1
+animationContainer/desert
+  rotate: false
+  xy: 3621, 2035
+  size: 201, 200
+  orig: 201, 200
+  offset: 0, 0
+  index: -1
+animationContainer/desertPart
+  rotate: false
+  xy: 2569, 824
+  size: 127, 126
+  orig: 127, 126
+  offset: 0, 0
+  index: -1
+animationContainer/emptyContainer
+  rotate: false
+  xy: 2149, 1075
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+animationContainer/filledContainer
+  rotate: false
+  xy: 1412, 2143
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+animationContainer/orbsUI
+  rotate: false
+  xy: 3439, 3295
+  size: 308, 308
+  orig: 308, 308
+  offset: 0, 0
+  index: -1
+animationContainer/swamp
+  rotate: false
+  xy: 3863, 2774
+  size: 199, 200
+  orig: 199, 200
+  offset: 0, 0
+  index: -1
+animationContainer/swampPart
+  rotate: false
+  xy: 2440, 955
+  size: 129, 127
+  orig: 129, 127
+  offset: 0, 0
+  index: -1
+animationContainer/tundra
+  rotate: false
+  xy: 3621, 2236
+  size: 203, 204
+  orig: 203, 204
+  offset: 0, 0
+  index: -1
+animationContainer/tundraPart
+  rotate: false
+  xy: 2408, 693
+  size: 124, 132
+  orig: 124, 132
+  offset: 0, 0
+  index: -1
+animationContainer/volcano
+  rotate: false
+  xy: 2290, 3337
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+animationContainer/volcanoPart
+  rotate: false
+  xy: 2570, 951
+  size: 129, 131
+  orig: 129, 131
+  offset: 0, 0
+  index: -1
+building/castletower_placeholder
+  rotate: false
+  xy: 943, 548
+  size: 340, 390
+  orig: 340, 390
+  offset: 0, 0
+  index: -1
+debug/collision_debug_box
+  rotate: false
+  xy: 3581, 1718
+  size: 247, 280
+  orig: 247, 280
+  offset: 0, 0
+  index: -1
+debug/collision_debug_point
+  rotate: false
+  xy: 1927, 2864
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+debug/missingtexture
+  rotate: false
+  xy: 2440, 826
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+debug/square-select
+  rotate: false
+  xy: 3759, 1437
+  size: 247, 280
+  orig: 247, 280
+  offset: 0, 0
+  index: -1
+enemies/blindness_projectile
+  rotate: false
+  xy: 1412, 2007
+  size: 135, 135
+  orig: 135, 135
+  offset: 0, 0
+  index: -1
+enemies/buff_icons/blind
+  rotate: false
+  xy: 2569, 2919
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+enemies/buff_icons/burn
+  rotate: false
+  xy: 2658, 2598
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+enemies/buff_icons/freeze
+  rotate: false
+  xy: 1091, 2003
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+enemies/buff_icons/pixels/green_pixel
+  rotate: false
+  xy: 4094, 3951
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+enemies/buff_icons/pixels/red_pixel
+  rotate: false
+  xy: 4094, 3949
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+enemies/buff_icons/poison
+  rotate: false
+  xy: 1607, 1040
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+enemies/buff_icons/regeneration
+  rotate: false
+  xy: 1605, 719
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+enemies/buff_icons/speed
+  rotate: false
+  xy: 1585, 77
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+enemies/buff_icons/strength
+  rotate: false
+  xy: 1926, 719
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+enemies/buff_icons/unstoppable
+  rotate: false
+  xy: 3211, 2962
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+enemies/desert/boss/web
+  rotate: false
+  xy: 2979, 2320
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+enemies/desert/boss/web_projectile
+  rotate: false
+  xy: 1097, 939
+  size: 50, 100
+  orig: 50, 100
+  offset: 0, 0
+  index: -1
+enemies/dummy_enemy
+  rotate: false
+  xy: 1, 1010
+  size: 500, 528
+  orig: 500, 528
+  offset: 0, 0
+  index: -1
+enemies/slash
+  rotate: false
+  xy: 1539, 2864
+  size: 387, 372
+  orig: 387, 372
+  offset: 0, 0
+  index: -1
+enemies/swamp/green_slash
+  rotate: false
+  xy: 1252, 2344
+  size: 387, 372
+  orig: 387, 372
+  offset: 0, 0
+  index: -1
+enemies/tundra/boss/tundra_boss
+  rotate: false
+  xy: 1, 509
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+enemies/tundra/common/tundra_common
+  rotate: false
+  xy: 3502, 1170
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+enemies/tundra/common/tundra_common_spritesheet
+  rotate: false
+  xy: 1, 8
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+enemies/tundra/melee/tundra_melee
+  rotate: false
+  xy: 1640, 2488
+  size: 375, 375
+  orig: 375, 375
+  offset: 0, 0
+  index: -1
+enemies/tundra/melee/tundra_melee_spritesheet
+  rotate: false
+  xy: 1539, 3334
+  size: 750, 750
+  orig: 750, 750
+  offset: 0, 0
+  index: -1
+enemies/tundra/ranged/tundra_ranged
+  rotate: false
+  xy: 1640, 2112
+  size: 375, 375
+  orig: 375, 375
+  offset: 0, 0
+  index: -1
+enemies/tundra/ranged/tundra_ranged_spritesheet
+  rotate: false
+  xy: 1, 1539
+  size: 750, 750
+  orig: 750, 750
+  offset: 0, 0
+  index: -1
+enemies/volcano/boss/fireball
+  rotate: false
+  xy: 1046, 939
+  size: 50, 100
+  orig: 50, 100
+  offset: 0, 0
+  index: -1
+fences/fence_E-W
+  rotate: false
+  xy: 2277, 1597
+  size: 272, 320
+  orig: 272, 320
+  offset: 0, 0
+  index: -1
+fences/fence_N-E
+  rotate: false
+  xy: 752, 1730
+  size: 320, 272
+  orig: 320, 272
+  offset: 0, 0
+  index: -1
+fences/fence_N-S
+  rotate: false
+  xy: 943, 275
+  size: 320, 272
+  orig: 320, 272
+  offset: 0, 0
+  index: -1
+fences/fence_N-W
+  rotate: false
+  xy: 1928, 1276
+  size: 272, 320
+  orig: 272, 320
+  offset: 0, 0
+  index: -1
+fences/fence_S-E
+  rotate: false
+  xy: 2201, 1276
+  size: 272, 320
+  orig: 272, 320
+  offset: 0, 0
+  index: -1
+fences/fence_S-W
+  rotate: false
+  xy: 837, 2
+  size: 320, 272
+  orig: 320, 272
+  offset: 0, 0
+  index: -1
+hero_models/bar
+  rotate: false
+  xy: 752, 1665
+  size: 188, 64
+  orig: 188, 64
+  offset: 0, 0
+  index: -1
+hero_models/knight_placeholder
+  rotate: false
+  xy: 1286, 1040
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+itemBar1
+  rotate: false
+  xy: 965, 1040
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+itemBar_placeholder
+  rotate: false
+  xy: 1286, 1361
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+item_window
+  rotate: false
+  xy: 770, 2355
+  size: 481, 361
+  orig: 481, 361
+  offset: 0, 0
+  index: -1
+items/armour
+  rotate: false
+  xy: 3621, 2441
+  size: 221, 271
+  orig: 221, 271
+  offset: 0, 0
+  index: -1
+items/extra_health
+  rotate: false
+  xy: 1928, 1084
+  size: 220, 191
+  orig: 220, 191
+  offset: 0, 0
+  index: -1
+items/health_potion
+  rotate: false
+  xy: 3532, 2975
+  size: 241, 261
+  orig: 241, 261
+  offset: 0, 0
+  index: -1
+items/item_button
+  rotate: false
+  xy: 2290, 3401
+  size: 391, 201
+  orig: 391, 201
+  offset: 0, 0
+  index: -1
+items/item_button_pressed
+  rotate: false
+  xy: 502, 327
+  size: 391, 200
+  orig: 391, 200
+  offset: 0, 0
+  index: -1
+items/mana_potion
+  rotate: false
+  xy: 3774, 2975
+  size: 241, 261
+  orig: 241, 261
+  offset: 0, 0
+  index: -1
+items/placeholder
+  rotate: false
+  xy: 1471, 3008
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+items/speed_potion
+  rotate: false
+  xy: 3621, 2713
+  size: 241, 261
+  orig: 241, 261
+  offset: 0, 0
+  index: -1
+items/tool_kit
+  rotate: false
+  xy: 2797, 3383
+  size: 320, 220
+  orig: 320, 220
+  offset: 0, 0
+  index: -1
+mech/mech_breakdown
+  rotate: false
+  xy: 1, 3316
+  size: 768, 768
+  orig: 768, 768
+  offset: 0, 0
+  index: -1
+mech/mech_breakdown_still
+  rotate: false
+  xy: 2474, 1340
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+mech/mech_idle_down
+  rotate: false
+  xy: 2731, 1378
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+mech/mech_idle_left
+  rotate: false
+  xy: 2988, 1421
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+mech/mech_idle_right
+  rotate: false
+  xy: 3245, 1421
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+mech/mech_idle_up
+  rotate: false
+  xy: 3502, 1421
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+mech/mech_projectile
+  rotate: false
+  xy: 2324, 3207
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: -1
+mech/mech_projectile_still
+  rotate: false
+  xy: 2247, 721
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+mech/mech_ranged_down
+  rotate: false
+  xy: 1, 2803
+  size: 768, 512
+  orig: 768, 512
+  offset: 0, 0
+  index: -1
+mech/mech_ranged_left
+  rotate: false
+  xy: 770, 3572
+  size: 768, 512
+  orig: 768, 512
+  offset: 0, 0
+  index: -1
+mech/mech_ranged_right
+  rotate: false
+  xy: 1, 2290
+  size: 768, 512
+  orig: 768, 512
+  offset: 0, 0
+  index: -1
+mech/mech_ranged_up
+  rotate: false
+  xy: 770, 3059
+  size: 768, 512
+  orig: 768, 512
+  offset: 0, 0
+  index: -1
+orbs/Pixel_art_orb_desertb
+  rotate: false
+  xy: 965, 959
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+orbs/Pixel_art_orb_snowb
+  rotate: false
+  xy: 1158, 194
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+orbs/Pixel_art_orb_swampb
+  rotate: false
+  xy: 2682, 3522
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+orbs/Pixel_art_orb_volcanob
+  rotate: false
+  xy: 1715, 1710
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+orbs/orbBar
+  rotate: false
+  xy: 2550, 1837
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+player/player_idle_down
+  rotate: false
+  xy: 2474, 1083
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+player/player_idle_left
+  rotate: false
+  xy: 2731, 1121
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+player/player_idle_right
+  rotate: false
+  xy: 2988, 1164
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+player/player_idle_up
+  rotate: false
+  xy: 3245, 1164
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+rocks/TundraRock2-3
+  rotate: false
+  xy: 2337, 2239
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+rocks/rock_01
+  rotate: false
+  xy: 1605, 398
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+rocks/rock_02
+  rotate: false
+  xy: 1264, 77
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+rocks/rock_desert
+  rotate: false
+  xy: 1715, 1791
+  size: 280, 320
+  orig: 280, 320
+  offset: 0, 0
+  index: -1
+rocks/rock_desert_02
+  rotate: false
+  xy: 1996, 1597
+  size: 280, 320
+  orig: 280, 320
+  offset: 0, 0
+  index: -1
+rocks/rockplaceholder2
+  rotate: false
+  xy: 502, 528
+  size: 440, 410
+  orig: 440, 410
+  offset: 0, 0
+  index: -1
+rocks/tundraRock2
+  rotate: false
+  xy: 2890, 2962
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+stats
+  rotate: false
+  xy: 1906, 77
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+terrain/general/plains_grass
+  rotate: false
+  xy: 828, 1591
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/general/water
+  rotate: false
+  xy: 894, 380
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_0
+  rotate: false
+  xy: 2890, 2925
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_1
+  rotate: false
+  xy: 2890, 2925
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_128
+  rotate: false
+  xy: 2890, 2925
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_129
+  rotate: false
+  xy: 2890, 2925
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_132
+  rotate: false
+  xy: 2890, 2925
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_133
+  rotate: false
+  xy: 2890, 2925
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_160
+  rotate: false
+  xy: 2890, 2925
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_161
+  rotate: false
+  xy: 2890, 2925
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_164
+  rotate: false
+  xy: 2890, 2925
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_165
+  rotate: false
+  xy: 2890, 2925
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_32
+  rotate: false
+  xy: 2890, 2925
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_33
+  rotate: false
+  xy: 2890, 2925
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_36
+  rotate: false
+  xy: 2890, 2925
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_37
+  rotate: false
+  xy: 2890, 2925
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_4
+  rotate: false
+  xy: 2890, 2925
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_5
+  rotate: false
+  xy: 2890, 2925
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_10
+  rotate: false
+  xy: 3581, 1681
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_138
+  rotate: false
+  xy: 3581, 1681
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_14
+  rotate: false
+  xy: 3581, 1681
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_142
+  rotate: false
+  xy: 3581, 1681
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_170
+  rotate: false
+  xy: 3581, 1681
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_174
+  rotate: false
+  xy: 3581, 1681
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_42
+  rotate: false
+  xy: 3581, 1681
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_46
+  rotate: false
+  xy: 3581, 1681
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_104
+  rotate: false
+  xy: 3614, 1681
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_105
+  rotate: false
+  xy: 3614, 1681
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_108
+  rotate: false
+  xy: 3614, 1681
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_109
+  rotate: false
+  xy: 3614, 1681
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_232
+  rotate: false
+  xy: 3614, 1681
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_233
+  rotate: false
+  xy: 3614, 1681
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_236
+  rotate: false
+  xy: 3614, 1681
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_237
+  rotate: false
+  xy: 3614, 1681
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_106
+  rotate: false
+  xy: 1961, 1047
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_110
+  rotate: false
+  xy: 1961, 1047
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_234
+  rotate: false
+  xy: 1961, 1047
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_238
+  rotate: false
+  xy: 1961, 1047
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_107
+  rotate: false
+  xy: 4029, 3484
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_111
+  rotate: false
+  xy: 4029, 3484
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_235
+  rotate: false
+  xy: 4029, 3484
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_239
+  rotate: false
+  xy: 4029, 3484
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_11
+  rotate: false
+  xy: 1928, 1047
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_139
+  rotate: false
+  xy: 1928, 1047
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_143
+  rotate: false
+  xy: 1928, 1047
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_15
+  rotate: false
+  xy: 1928, 1047
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_171
+  rotate: false
+  xy: 1928, 1047
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_175
+  rotate: false
+  xy: 1928, 1047
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_43
+  rotate: false
+  xy: 1928, 1047
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_47
+  rotate: false
+  xy: 1928, 1047
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_120
+  rotate: false
+  xy: 3896, 2737
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_121
+  rotate: false
+  xy: 3896, 2737
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_124
+  rotate: false
+  xy: 3896, 2737
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_125
+  rotate: false
+  xy: 3896, 2737
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_122
+  rotate: false
+  xy: 974, 1693
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_123
+  rotate: false
+  xy: 1548, 2069
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_126
+  rotate: false
+  xy: 2350, 1202
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_127
+  rotate: false
+  xy: 2383, 1239
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_16
+  rotate: false
+  xy: 4029, 3521
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_144
+  rotate: false
+  xy: 4029, 3521
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_145
+  rotate: false
+  xy: 4029, 3521
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_148
+  rotate: false
+  xy: 4029, 3521
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_149
+  rotate: false
+  xy: 4029, 3521
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_17
+  rotate: false
+  xy: 4029, 3521
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_176
+  rotate: false
+  xy: 4029, 3521
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_177
+  rotate: false
+  xy: 4029, 3521
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_180
+  rotate: false
+  xy: 4029, 3521
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_181
+  rotate: false
+  xy: 4029, 3521
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_20
+  rotate: false
+  xy: 4029, 3521
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_21
+  rotate: false
+  xy: 4029, 3521
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_48
+  rotate: false
+  xy: 4029, 3521
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_49
+  rotate: false
+  xy: 4029, 3521
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_52
+  rotate: false
+  xy: 4029, 3521
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_53
+  rotate: false
+  xy: 4029, 3521
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_18
+  rotate: false
+  xy: 3863, 2737
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_146
+  rotate: false
+  xy: 3863, 2737
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_147
+  rotate: false
+  xy: 3863, 2737
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_178
+  rotate: false
+  xy: 3863, 2737
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_179
+  rotate: false
+  xy: 3863, 2737
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_19
+  rotate: false
+  xy: 3863, 2737
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_50
+  rotate: false
+  xy: 3863, 2737
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_51
+  rotate: false
+  xy: 3863, 2737
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_2
+  rotate: false
+  xy: 2731, 1084
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_130
+  rotate: false
+  xy: 2731, 1084
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_131
+  rotate: false
+  xy: 2731, 1084
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_134
+  rotate: false
+  xy: 2731, 1084
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_135
+  rotate: false
+  xy: 2731, 1084
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_162
+  rotate: false
+  xy: 2731, 1084
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_163
+  rotate: false
+  xy: 2731, 1084
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_166
+  rotate: false
+  xy: 2731, 1084
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_167
+  rotate: false
+  xy: 2731, 1084
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_3
+  rotate: false
+  xy: 2731, 1084
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_34
+  rotate: false
+  xy: 2731, 1084
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_35
+  rotate: false
+  xy: 2731, 1084
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_38
+  rotate: false
+  xy: 2731, 1084
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_39
+  rotate: false
+  xy: 2731, 1084
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_6
+  rotate: false
+  xy: 2731, 1084
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_7
+  rotate: false
+  xy: 2731, 1084
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_208
+  rotate: false
+  xy: 2408, 619
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_209
+  rotate: false
+  xy: 2408, 619
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_212
+  rotate: false
+  xy: 2408, 619
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_213
+  rotate: false
+  xy: 2408, 619
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_240
+  rotate: false
+  xy: 2408, 619
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_241
+  rotate: false
+  xy: 2408, 619
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_244
+  rotate: false
+  xy: 2408, 619
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_245
+  rotate: false
+  xy: 2408, 619
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_210
+  rotate: false
+  xy: 2441, 656
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_211
+  rotate: false
+  xy: 2441, 656
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_242
+  rotate: false
+  xy: 2441, 656
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_243
+  rotate: false
+  xy: 2441, 656
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_214
+  rotate: false
+  xy: 2533, 752
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_215
+  rotate: false
+  xy: 2533, 752
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_246
+  rotate: false
+  xy: 2533, 752
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_247
+  rotate: false
+  xy: 2533, 752
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_216
+  rotate: false
+  xy: 1158, 120
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_217
+  rotate: false
+  xy: 1158, 120
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_220
+  rotate: false
+  xy: 1158, 120
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_221
+  rotate: false
+  xy: 1158, 120
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_218
+  rotate: false
+  xy: 1191, 157
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_219
+  rotate: false
+  xy: 2682, 3448
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_22
+  rotate: false
+  xy: 941, 1693
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_150
+  rotate: false
+  xy: 941, 1693
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_151
+  rotate: false
+  xy: 941, 1693
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_182
+  rotate: false
+  xy: 941, 1693
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_183
+  rotate: false
+  xy: 941, 1693
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_23
+  rotate: false
+  xy: 941, 1693
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_54
+  rotate: false
+  xy: 941, 1693
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_55
+  rotate: false
+  xy: 941, 1693
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_222
+  rotate: false
+  xy: 2715, 3485
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_223
+  rotate: false
+  xy: 2763, 3529
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_24
+  rotate: false
+  xy: 1548, 2106
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_152
+  rotate: false
+  xy: 1548, 2106
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_153
+  rotate: false
+  xy: 1548, 2106
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_156
+  rotate: false
+  xy: 1548, 2106
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_157
+  rotate: false
+  xy: 1548, 2106
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_184
+  rotate: false
+  xy: 1548, 2106
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_185
+  rotate: false
+  xy: 1548, 2106
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_188
+  rotate: false
+  xy: 1548, 2106
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_189
+  rotate: false
+  xy: 1548, 2106
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_25
+  rotate: false
+  xy: 1548, 2106
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_28
+  rotate: false
+  xy: 1548, 2106
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_29
+  rotate: false
+  xy: 1548, 2106
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_56
+  rotate: false
+  xy: 1548, 2106
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_57
+  rotate: false
+  xy: 1548, 2106
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_60
+  rotate: false
+  xy: 1548, 2106
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_61
+  rotate: false
+  xy: 1548, 2106
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_248
+  rotate: false
+  xy: 1796, 1717
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_249
+  rotate: false
+  xy: 1796, 1717
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_252
+  rotate: false
+  xy: 1796, 1717
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_253
+  rotate: false
+  xy: 1796, 1717
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_250
+  rotate: false
+  xy: 1829, 1754
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_251
+  rotate: false
+  xy: 2550, 1763
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_254
+  rotate: false
+  xy: 2583, 1800
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_255
+  rotate: false
+  xy: 785, 1551
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_26
+  rotate: false
+  xy: 2350, 1239
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_154
+  rotate: false
+  xy: 2350, 1239
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_186
+  rotate: false
+  xy: 2350, 1239
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_58
+  rotate: false
+  xy: 2350, 1239
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_27
+  rotate: false
+  xy: 2408, 656
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_155
+  rotate: false
+  xy: 2408, 656
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_187
+  rotate: false
+  xy: 2408, 656
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_59
+  rotate: false
+  xy: 2408, 656
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_30
+  rotate: false
+  xy: 2533, 789
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_158
+  rotate: false
+  xy: 2533, 789
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_190
+  rotate: false
+  xy: 2533, 789
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_62
+  rotate: false
+  xy: 2533, 789
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_31
+  rotate: false
+  xy: 1158, 157
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_159
+  rotate: false
+  xy: 1158, 157
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_191
+  rotate: false
+  xy: 1158, 157
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_63
+  rotate: false
+  xy: 1158, 157
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_64
+  rotate: false
+  xy: 2682, 3485
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_100
+  rotate: false
+  xy: 2682, 3485
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_101
+  rotate: false
+  xy: 2682, 3485
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_192
+  rotate: false
+  xy: 2682, 3485
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_193
+  rotate: false
+  xy: 2682, 3485
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_196
+  rotate: false
+  xy: 2682, 3485
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_197
+  rotate: false
+  xy: 2682, 3485
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_224
+  rotate: false
+  xy: 2682, 3485
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_225
+  rotate: false
+  xy: 2682, 3485
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_228
+  rotate: false
+  xy: 2682, 3485
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_229
+  rotate: false
+  xy: 2682, 3485
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_65
+  rotate: false
+  xy: 2682, 3485
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_68
+  rotate: false
+  xy: 2682, 3485
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_69
+  rotate: false
+  xy: 2682, 3485
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_96
+  rotate: false
+  xy: 2682, 3485
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_97
+  rotate: false
+  xy: 2682, 3485
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_66
+  rotate: false
+  xy: 2763, 3566
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_102
+  rotate: false
+  xy: 2763, 3566
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_103
+  rotate: false
+  xy: 2763, 3566
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_194
+  rotate: false
+  xy: 2763, 3566
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_195
+  rotate: false
+  xy: 2763, 3566
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_198
+  rotate: false
+  xy: 2763, 3566
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_199
+  rotate: false
+  xy: 2763, 3566
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_226
+  rotate: false
+  xy: 2763, 3566
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_227
+  rotate: false
+  xy: 2763, 3566
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_230
+  rotate: false
+  xy: 2763, 3566
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_231
+  rotate: false
+  xy: 2763, 3566
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_67
+  rotate: false
+  xy: 2763, 3566
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_70
+  rotate: false
+  xy: 2763, 3566
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_71
+  rotate: false
+  xy: 2763, 3566
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_98
+  rotate: false
+  xy: 2763, 3566
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_99
+  rotate: false
+  xy: 2763, 3566
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_72
+  rotate: false
+  xy: 1796, 1754
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_200
+  rotate: false
+  xy: 1796, 1754
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_201
+  rotate: false
+  xy: 1796, 1754
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_204
+  rotate: false
+  xy: 1796, 1754
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_205
+  rotate: false
+  xy: 1796, 1754
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_73
+  rotate: false
+  xy: 1796, 1754
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_76
+  rotate: false
+  xy: 1796, 1754
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_77
+  rotate: false
+  xy: 1796, 1754
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_74
+  rotate: false
+  xy: 2550, 1800
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_202
+  rotate: false
+  xy: 2550, 1800
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_206
+  rotate: false
+  xy: 2550, 1800
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_78
+  rotate: false
+  xy: 2550, 1800
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_75
+  rotate: false
+  xy: 752, 1551
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_203
+  rotate: false
+  xy: 752, 1551
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_207
+  rotate: false
+  xy: 752, 1551
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_79
+  rotate: false
+  xy: 752, 1551
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_8
+  rotate: false
+  xy: 2988, 1127
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_12
+  rotate: false
+  xy: 2988, 1127
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_13
+  rotate: false
+  xy: 2988, 1127
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_136
+  rotate: false
+  xy: 2988, 1127
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_137
+  rotate: false
+  xy: 2988, 1127
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_140
+  rotate: false
+  xy: 2988, 1127
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_141
+  rotate: false
+  xy: 2988, 1127
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_168
+  rotate: false
+  xy: 2988, 1127
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_169
+  rotate: false
+  xy: 2988, 1127
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_172
+  rotate: false
+  xy: 2988, 1127
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_173
+  rotate: false
+  xy: 2988, 1127
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_40
+  rotate: false
+  xy: 2988, 1127
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_41
+  rotate: false
+  xy: 2988, 1127
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_44
+  rotate: false
+  xy: 2988, 1127
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_45
+  rotate: false
+  xy: 2988, 1127
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_9
+  rotate: false
+  xy: 2988, 1127
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_80
+  rotate: false
+  xy: 828, 1628
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_112
+  rotate: false
+  xy: 828, 1628
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_113
+  rotate: false
+  xy: 828, 1628
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_116
+  rotate: false
+  xy: 828, 1628
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_117
+  rotate: false
+  xy: 828, 1628
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_81
+  rotate: false
+  xy: 828, 1628
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_84
+  rotate: false
+  xy: 828, 1628
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_85
+  rotate: false
+  xy: 828, 1628
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_82
+  rotate: false
+  xy: 1471, 2971
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_114
+  rotate: false
+  xy: 1471, 2971
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_115
+  rotate: false
+  xy: 1471, 2971
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_83
+  rotate: false
+  xy: 1471, 2971
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_86
+  rotate: false
+  xy: 1148, 1003
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_118
+  rotate: false
+  xy: 1148, 1003
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_119
+  rotate: false
+  xy: 1148, 1003
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_87
+  rotate: false
+  xy: 1148, 1003
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_88
+  rotate: false
+  xy: 2602, 2882
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_89
+  rotate: false
+  xy: 2602, 2882
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_92
+  rotate: false
+  xy: 2602, 2882
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_93
+  rotate: false
+  xy: 2602, 2882
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_90
+  rotate: false
+  xy: 894, 454
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_91
+  rotate: false
+  xy: 2923, 2925
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_94
+  rotate: false
+  xy: 2764, 1084
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_95
+  rotate: false
+  xy: 3021, 1127
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/water/directional_tiles/water_15
+  rotate: false
+  xy: 2830, 1084
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/tundra/ice/directional_tiles/ice_15
+  rotate: false
+  xy: 2569, 2882
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/tundra/snow/directional_tiles/snow_0
+  rotate: false
+  xy: 861, 1628
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/tundra/snow/directional_tiles/snow_1
+  rotate: false
+  xy: 1471, 2934
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/tundra/snow/directional_tiles/snow_10
+  rotate: false
+  xy: 3929, 2737
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/tundra/snow/directional_tiles/snow_11
+  rotate: false
+  xy: 1007, 1693
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/tundra/snow/directional_tiles/snow_12
+  rotate: false
+  xy: 1040, 1693
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/tundra/snow/directional_tiles/snow_13
+  rotate: false
+  xy: 1548, 2032
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/tundra/snow/directional_tiles/snow_14
+  rotate: false
+  xy: 2350, 1165
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/tundra/snow/directional_tiles/snow_15
+  rotate: false
+  xy: 2383, 1202
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/tundra/snow/directional_tiles/snow_2
+  rotate: false
+  xy: 1148, 966
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/tundra/snow/directional_tiles/snow_3
+  rotate: false
+  xy: 1181, 1003
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/tundra/snow/directional_tiles/snow_4
+  rotate: false
+  xy: 894, 417
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/tundra/snow/directional_tiles/snow_5
+  rotate: false
+  xy: 2797, 1084
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/tundra/snow/directional_tiles/snow_6
+  rotate: false
+  xy: 3054, 1127
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/tundra/snow/directional_tiles/snow_7
+  rotate: false
+  xy: 3647, 1681
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/tundra/snow/directional_tiles/snow_8
+  rotate: false
+  xy: 1994, 1047
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/tundra/snow/directional_tiles/snow_9
+  rotate: false
+  xy: 4029, 3447
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/util/transparent_tile
+  rotate: false
+  xy: 2416, 1239
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/volcano/ground/directional_tiles/volcano_ground_0
+  rotate: false
+  xy: 2408, 582
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/volcano/ground/directional_tiles/volcano_ground_1
+  rotate: false
+  xy: 2441, 619
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/volcano/ground/directional_tiles/volcano_ground_10
+  rotate: false
+  xy: 2550, 1726
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/volcano/ground/directional_tiles/volcano_ground_11
+  rotate: false
+  xy: 2583, 1763
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/volcano/ground/directional_tiles/volcano_ground_12
+  rotate: false
+  xy: 861, 1591
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/volcano/ground/directional_tiles/volcano_ground_13
+  rotate: false
+  xy: 894, 1628
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/volcano/ground/directional_tiles/volcano_ground_14
+  rotate: false
+  xy: 1471, 2897
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/volcano/ground/directional_tiles/volcano_ground_15
+  rotate: false
+  xy: 1181, 966
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/volcano/ground/directional_tiles/volcano_ground_2
+  rotate: false
+  xy: 2474, 656
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/volcano/ground/directional_tiles/volcano_ground_3
+  rotate: false
+  xy: 2533, 715
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/volcano/ground/directional_tiles/volcano_ground_4
+  rotate: false
+  xy: 1158, 83
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/volcano/ground/directional_tiles/volcano_ground_5
+  rotate: false
+  xy: 1191, 120
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/volcano/ground/directional_tiles/volcano_ground_6
+  rotate: false
+  xy: 2682, 3411
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/volcano/ground/directional_tiles/volcano_ground_7
+  rotate: false
+  xy: 2715, 3448
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/volcano/ground/directional_tiles/volcano_ground_8
+  rotate: false
+  xy: 1829, 1717
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/volcano/ground/directional_tiles/volcano_ground_9
+  rotate: false
+  xy: 1862, 1754
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/volcano/lava/directional_tiles/lava_15
+  rotate: false
+  xy: 894, 491
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/volcano/spawn/directional_tiles/volcano_spawn_15
+  rotate: false
+  xy: 1214, 1003
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+tiles/desert_tile_1
+  rotate: false
+  xy: 2658, 1956
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+tiles/desert_tile_2
+  rotate: false
+  xy: 2658, 1635
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+tiles/desert_tile_3
+  rotate: false
+  xy: 770, 2003
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+tiles/fire
+  rotate: false
+  xy: 1148, 939
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+trees/DeadTree_01
+  rotate: false
+  xy: 1927, 2881
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+trees/DeadTree_02
+  rotate: false
+  xy: 2016, 2560
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+trees/cactus_desert
+  rotate: false
+  xy: 3300, 1678
+  size: 280, 320
+  orig: 280, 320
+  offset: 0, 0
+  index: -1
+trees/cactus_desert_02
+  rotate: false
+  xy: 3748, 3237
+  size: 280, 320
+  orig: 280, 320
+  offset: 0, 0
+  index: -1
+trees/swamp1
+  rotate: false
+  xy: 1926, 398
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+trees/swamp2
+  rotate: false
+  xy: 2227, 77
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+trees/tundra2
+  rotate: false
+  xy: 3118, 3283
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+trees/tundra2-1
+  rotate: false
+  xy: 3278, 3604
+  size: 480, 480
+  orig: 480, 480
+  offset: 0, 0
+  index: -1
+trees/tundra8
+  rotate: false
+  xy: 2797, 3604
+  size: 480, 480
+  orig: 480, 480
+  offset: 0, 0
+  index: -1
+weapons/dagger
+  rotate: false
+  xy: 2658, 2277
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+weapons/greatAxe
+  rotate: false
+  xy: 1073, 1682
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+weapons/ironSword
+  rotate: false
+  xy: 965, 1361
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+weapons/onehanded
+  rotate: false
+  xy: 1607, 1361
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+weapons/wand
+  rotate: false
+  xy: 2979, 2641
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+weapons/woodBow
+  rotate: false
+  xy: 3300, 1999
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1

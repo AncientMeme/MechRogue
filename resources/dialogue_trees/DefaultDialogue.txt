@@ -1,0 +1,15 @@
+<?xml version = "1.0"?>
+<root>
+    <initialBranch question="Oh, you startled me!" text="1: Sorry about that">
+        <branch question="You better be...fool" text="This is why no one likes you" end="true" buff="none">
+        </branch>
+        <branch text="">
+        </branch>
+    </initialBranch>
+    <initialBranch text="2: Get out of my way">
+        <branch question="Someone's gonna stand up to you eventually!" text="1 : You'd think that" end="true" buff="none">
+        </branch>
+        <branch text="">
+        </branch>
+    </initialBranch>
+</root>

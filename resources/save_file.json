@@ -1,0 +1,61 @@
+<<<<<<< HEAD
+{"entities": [{"objectName":"playerPeon","speed":0.1,"texture":"spacman_ded","entityID":0,"rowPos":5.0,"colPos":10.0},
+{"objectName":"WizardNPC","speed":0.01,"texture":"spacman_blue","entityID":1,"rowPos":3.0,"colPos":8.0},
+{"objectName":"RogueNPC","speed":0.01,"texture":"spacman_blue","entityID":2,"rowPos":3.0,"colPos":9.0},
+{"objectName":"VillagerNPC","speed":0.01,"texture":"spacman_blue","entityID":3,"rowPos":3.0,"colPos":10.0},
+{"objectName":"MerchantNPC","speed":0.01,"texture":"merchant_front","entityID":4,"rowPos":0.0,"colPos":8.0},
+{"objectName":"Wizard2NPC","speed":0.01,"texture":"wizard_right","entityID":5,"rowPos":0.0,"colPos":9.0},
+<<<<<<< HEAD
+{"objectName":"SnowmanNPC","speed":0.01,"texture":"snowman_left","entityID":6,"rowPos":0.0,"colPos":10.0},
+{"objectName":"CamoNPC","speed":0.02,"texture":"camo_left","entityID":7,"rowPos":3.0,"colPos":11.0},
+{"objectName":"tundraBossEnemy","speed":0.05,"texture":"dummy_enemy","entityID":8,"rowPos":17.0,"colPos":-17.0},
+{"objectName":"desertBossEnemy","speed":0.05,"texture":"dummy_enemy","entityID":9,"rowPos":-17.0,"colPos":17.0},
+{"objectName":"desertBossMinionEnemy","speed":0.15,"texture":"dummy_enemy","entityID":10,"rowPos":-17.0,"colPos":17.0},
+{"objectName":"volcanoBossEnemy","speed":0.05,"texture":"dummy_enemy","entityID":11,"rowPos":-17.0,"colPos":-17.0},
+{"objectName":"swampBossEnemy","speed":0.05,"texture":"dummy_enemy","entityID":12,"rowPos":17.0,"colPos":17.0},
+{"objectName":"tundraMeleeEnemy","speed":0.06,"texture":"dummy_enemy","entityID":13,"rowPos":15.0,"colPos":-13.0},
+{"objectName":"tundraMeleeEnemy","speed":0.06,"texture":"dummy_enemy","entityID":14,"rowPos":13.0,"colPos":-16.0},
+{"objectName":"tundraMeleeEnemy","speed":0.06,"texture":"dummy_enemy","entityID":15,"rowPos":5.0,"colPos":-5.0},
+{"objectName":"tundraCommonEnemy","speed":0.065,"texture":"dummy_enemy","entityID":16,"rowPos":10.0,"colPos":-5.0},
+{"objectName":"tundraCommonEnemy","speed":0.065,"texture":"dummy_enemy","entityID":17,"rowPos":5.0,"colPos":-10.0},
+{"objectName":"tundraRangedEnemy","speed":0.025,"texture":"dummy_enemy","entityID":18,"rowPos":10.0,"colPos":-10.0},
+{"objectName":"tundraRangedEnemy","speed":0.025,"texture":"dummy_enemy","entityID":19,"rowPos":5.0,"colPos":-12.0}
+],"tiles": [{"texture":"grass_1_0","obstructed":false,"index":-1,"tileID":27504,"rowPos":1.0,"colPos":1.0},
+{"texture":"grass_1_0","obstructed":false,"index":-1,"tileID":27505,"rowPos":5.0,"colPos":4.0}
+=======
+{"objectName":"tundraBossEnemy","speed":0.05,"texture":"dummy_enemy","entityID":6,"rowPos":17.0,"colPos":-17.0},
+{"objectName":"desertBossEnemy","speed":0.05,"texture":"dummy_enemy","entityID":7,"rowPos":-17.0,"colPos":17.0},
+{"objectName":"desertBossMinionEnemy","speed":0.15,"texture":"dummy_enemy","entityID":8,"rowPos":-17.0,"colPos":17.0},
+{"objectName":"volcanoBossEnemy","speed":0.05,"texture":"dummy_enemy","entityID":9,"rowPos":-17.0,"colPos":-17.0},
+{"objectName":"swampBossEnemy","speed":0.05,"texture":"dummy_enemy","entityID":10,"rowPos":17.0,"colPos":17.0},
+{"objectName":"tundraMeleeEnemy","speed":0.06,"texture":"dummy_enemy","entityID":11,"rowPos":15.0,"colPos":-13.0},
+{"objectName":"tundraMeleeEnemy","speed":0.06,"texture":"dummy_enemy","entityID":12,"rowPos":13.0,"colPos":-16.0},
+{"objectName":"tundraMeleeEnemy","speed":0.06,"texture":"dummy_enemy","entityID":13,"rowPos":5.0,"colPos":-5.0},
+{"objectName":"tundraCommonEnemy","speed":0.065,"texture":"dummy_enemy","entityID":14,"rowPos":10.0,"colPos":-5.0},
+{"objectName":"tundraCommonEnemy","speed":0.065,"texture":"dummy_enemy","entityID":15,"rowPos":5.0,"colPos":-10.0},
+{"objectName":"tundraRangedEnemy","speed":0.025,"texture":"dummy_enemy","entityID":16,"rowPos":10.0,"colPos":-10.0},
+{"objectName":"tundraRangedEnemy","speed":0.025,"texture":"dummy_enemy","entityID":17,"rowPos":5.0,"colPos":-12.0}
+],"tiles": [{"texture":"grass_1_0","obstructed":false,"index":-1,"tileID":26967,"rowPos":1.0,"colPos":1.0},
+{"texture":"grass_1_0","obstructed":false,"index":-1,"tileID":26968,"rowPos":5.0,"colPos":4.0}
+=======
+{"entities": [{"objectName":"tundraBossEnemy","rowPos":23.0,"colPos":4.0},
+{"objectName":"tundraMeleeEnemy","rowPos":24.0,"colPos":4.0},
+{"objectName":"tundraMeleeEnemy","rowPos":25.0,"colPos":-1.0},
+{"objectName":"tundraMeleeEnemy","rowPos":24.0,"colPos":4.0},
+{"objectName":"tundraCommonEnemy","rowPos":24.0,"colPos":2.0},
+{"objectName":"tundraCommonEnemy","rowPos":24.0,"colPos":3.0},
+{"objectName":"tundraRangedEnemy","rowPos":23.0,"colPos":-1.0},
+{"objectName":"tundraRangedEnemy","rowPos":24.0,"colPos":0.0},
+{"objectName":"desertBossEnemy","rowPos":-23.0,"colPos":0.0},
+{"objectName":"desertBossMinionEnemy","rowPos":-24.0,"colPos":-2.0},
+{"objectName":"swampBossEnemy","rowPos":-2.0,"colPos":-26.0},
+{"objectName":"volcanoBossEnemy","rowPos":-2.0,"colPos":26.0},
+{"objectName":"playerPeon","rowPos":5.0,"colPos":10.0},
+{"objectName":"WizardNPC","rowPos":3.0,"colPos":8.0},
+{"objectName":"RogueNPC","rowPos":3.0,"colPos":9.0},
+{"objectName":"VillagerNPC","rowPos":3.0,"colPos":10.0}
+],"tiles": [{"rowPos":1.0,"colPos":1.0},
+{"rowPos":5.0,"colPos":4.0}
+>>>>>>> ac89bcaff40ce8653d3f084d84b6897b798a9d99
+>>>>>>> 5451f857e9b476ef08bae1fed9f44c44cc391b5c
+]}

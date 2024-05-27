@@ -1,0 +1,908 @@
+
+textures.png
+size: 4096,4096
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+FriendlyNPC's/MaleVillager
+  rotate: false
+  xy: 2504, 819
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+FriendlyNPC's/MaleVillager_Spritesheet
+  rotate: false
+  xy: 1, 3053
+  size: 1920, 320
+  orig: 1920, 320
+  offset: 0, 0
+  index: -1
+FriendlyNPC's/Rogue
+  rotate: false
+  xy: 2829, 1608
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+FriendlyNPC's/Villagerface
+  rotate: false
+  xy: 2825, 966
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+UI/Backbutton
+  rotate: false
+  xy: 1978, 1951
+  size: 462, 599
+  orig: 462, 599
+  offset: 0, 0
+  index: -1
+UI/CTS
+  rotate: false
+  xy: 3728, 3793
+  size: 334, 132
+  orig: 334, 132
+  offset: 0, 0
+  index: -1
+UI/CTS-1
+  rotate: false
+  xy: 3728, 3926
+  size: 335, 131
+  orig: 335, 131
+  offset: 0, 0
+  index: -1
+UI/Game Controls
+  rotate: false
+  xy: 1, 1611
+  size: 1200, 800
+  orig: 1200, 800
+  offset: 0, 0
+  index: -1
+UI/LOADGAME
+  rotate: false
+  xy: 3463, 3606
+  size: 334, 131
+  orig: 334, 131
+  offset: 0, 0
+  index: -1
+UI/LOADGAME-1
+  rotate: false
+  xy: 3463, 3473
+  size: 334, 132
+  orig: 334, 132
+  offset: 0, 0
+  index: -1
+UI/SETTING
+  rotate: false
+  xy: 2419, 1461
+  size: 333, 130
+  orig: 333, 130
+  offset: 0, 0
+  index: -1
+UI/SETTING-1
+  rotate: false
+  xy: 1804, 1
+  size: 333, 131
+  orig: 333, 131
+  offset: 0, 0
+  index: -1
+UI/SINGLEPLAYER
+  rotate: false
+  xy: 2829, 2250
+  size: 332, 129
+  orig: 332, 129
+  offset: 0, 0
+  index: -1
+UI/SINGLEPLAYER-1
+  rotate: false
+  xy: 2829, 2380
+  size: 333, 131
+  orig: 333, 131
+  offset: 0, 0
+  index: -1
+UI/Settingscreen
+  rotate: false
+  xy: 1202, 1893
+  size: 775, 518
+  orig: 775, 518
+  offset: 0, 0
+  index: -1
+UI/Swordslider
+  rotate: false
+  xy: 2623, 2935
+  size: 506, 481
+  orig: 506, 481
+  offset: 0, 0
+  index: -1
+UI/mech_health_bar
+  rotate: false
+  xy: 3728, 4058
+  size: 345, 30
+  orig: 345, 30
+  offset: 0, 0
+  index: -1
+UI/player_health_bar
+  rotate: false
+  xy: 1602, 2520
+  size: 345, 30
+  orig: 345, 30
+  offset: 0, 0
+  index: -1
+UI/player_hurt_bar
+  rotate: false
+  xy: 1804, 133
+  size: 345, 30
+  orig: 345, 30
+  offset: 0, 0
+  index: -1
+UI/player_stat_base
+  rotate: false
+  xy: 1, 9
+  size: 800, 600
+  orig: 800, 600
+  offset: 0, 0
+  index: -1
+UI/player_status_bar
+  rotate: false
+  xy: 802, 12
+  size: 450, 96
+  orig: 450, 96
+  offset: 0, 0
+  index: -1
+UI/speechbaloon
+  rotate: false
+  xy: 1922, 3032
+  size: 700, 341
+  orig: 700, 341
+  offset: 0, 0
+  index: -1
+background
+  rotate: false
+  xy: 1202, 1374
+  size: 775, 518
+  orig: 775, 518
+  offset: 0, 0
+  index: -1
+building/castletower_placeholder
+  rotate: false
+  xy: 3332, 2497
+  size: 340, 390
+  orig: 340, 390
+  offset: 0, 0
+  index: -1
+enemies/buff-icon/blind-icon
+  rotate: false
+  xy: 2825, 645
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+enemies/buff-icon/burn-icon
+  rotate: false
+  xy: 2662, 324
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+enemies/buff-icon/frozen-icon-2
+  rotate: false
+  xy: 3471, 1903
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+enemies/buff-icon/poison-icon
+  rotate: false
+  xy: 3467, 619
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+enemies/desert/boss/boss_minion/desert_boss_minion_spritesheet
+  rotate: false
+  xy: 2502, 3738
+  size: 1225, 350
+  orig: 1225, 350
+  offset: 0, 0
+  index: -1
+enemies/desert/boss/desert_boss_spritesheet
+  rotate: false
+  xy: 1, 3374
+  size: 2500, 714
+  orig: 2500, 714
+  offset: 0, 0
+  index: -1
+enemies/dummy_enemy
+  rotate: false
+  xy: 3130, 2888
+  size: 500, 528
+  orig: 500, 528
+  offset: 0, 0
+  index: -1
+enemies/slash
+  rotate: false
+  xy: 2441, 1786
+  size: 387, 372
+  orig: 387, 372
+  offset: 0, 0
+  index: -1
+enemies/swamp/boss/swamp_boss_spritesheet_left
+  rotate: false
+  xy: 2502, 3417
+  size: 960, 320
+  orig: 960, 320
+  offset: 0, 0
+  index: -1
+enemies/swamp/green_slash
+  rotate: false
+  xy: 2441, 2159
+  size: 387, 372
+  orig: 387, 372
+  offset: 0, 0
+  index: -1
+enemies/tundra/boss/tundra_boss
+  rotate: false
+  xy: 802, 109
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+enemies/tundra/boss/tundra_boss_spritesheet
+  rotate: false
+  xy: 1, 610
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+enemies/tundra/common/tundra_common_spritesheet
+  rotate: false
+  xy: 1303, 122
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+enemies/tundra/melee/tundra_melee
+  rotate: false
+  xy: 2286, 247
+  size: 375, 375
+  orig: 375, 375
+  offset: 0, 0
+  index: -1
+enemies/tundra/melee/tundra_melee_spritesheet
+  rotate: false
+  xy: 1002, 623
+  size: 750, 750
+  orig: 750, 750
+  offset: 0, 0
+  index: -1
+enemies/tundra/ranged/tundra_ranged
+  rotate: false
+  xy: 2956, 2512
+  size: 375, 375
+  orig: 375, 375
+  offset: 0, 0
+  index: -1
+enemies/tundra/ranged/tundra_ranged_spritesheet
+  rotate: false
+  xy: 1753, 623
+  size: 750, 750
+  orig: 750, 750
+  offset: 0, 0
+  index: -1
+enemies/volcano/boss/volcano_boss_spritesheet_left
+  rotate: false
+  xy: 1, 2412
+  size: 1600, 640
+  orig: 1600, 640
+  offset: 0, 0
+  index: -1
+fences/fence_N-E
+  rotate: false
+  xy: 3304, 2224
+  size: 320, 272
+  orig: 320, 272
+  offset: 0, 0
+  index: -1
+fences/fence_N-S
+  rotate: false
+  xy: 3150, 1951
+  size: 320, 272
+  orig: 320, 272
+  offset: 0, 0
+  index: -1
+fences/fence_S-W
+  rotate: false
+  xy: 3150, 1678
+  size: 320, 272
+  orig: 320, 272
+  offset: 0, 0
+  index: -1
+hero_models/knight_placeholder
+  rotate: false
+  xy: 3471, 1261
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+itemBar1
+  rotate: false
+  xy: 3146, 1036
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+itemBar_placeholder
+  rotate: false
+  xy: 3146, 715
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+item_window
+  rotate: false
+  xy: 1804, 261
+  size: 481, 361
+  orig: 481, 361
+  offset: 0, 0
+  index: -1
+items/item_button
+  rotate: false
+  xy: 2564, 2733
+  size: 391, 201
+  orig: 391, 201
+  offset: 0, 0
+  index: -1
+items/item_button_pressed
+  rotate: false
+  xy: 2564, 2532
+  size: 391, 200
+  orig: 391, 200
+  offset: 0, 0
+  index: -1
+mech/mech_walk_down
+  rotate: false
+  xy: 1804, 164
+  size: 384, 96
+  orig: 384, 96
+  offset: 0, 0
+  index: -1
+mech/mech_walk_left
+  rotate: false
+  xy: 1978, 1443
+  size: 384, 96
+  orig: 384, 96
+  offset: 0, 0
+  index: -1
+mech/mech_walk_right
+  rotate: false
+  xy: 2419, 1689
+  size: 384, 96
+  orig: 384, 96
+  offset: 0, 0
+  index: -1
+mech/mech_walk_up
+  rotate: false
+  xy: 2419, 1592
+  size: 384, 96
+  orig: 384, 96
+  offset: 0, 0
+  index: -1
+rocks/TundraRock2-3
+  rotate: false
+  xy: 2825, 1287
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+rocks/rock_01
+  rotate: false
+  xy: 3304, 298
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+rocks/rock_02
+  rotate: false
+  xy: 3625, 298
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+rocks/rockplaceholder2
+  rotate: false
+  xy: 1978, 1540
+  size: 440, 410
+  orig: 440, 410
+  offset: 0, 0
+  index: -1
+stats
+  rotate: false
+  xy: 3673, 2831
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+tiles/desert_tile_1
+  rotate: false
+  xy: 3631, 3152
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+tiles/desert_tile_2
+  rotate: false
+  xy: 2662, 3
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+tiles/desert_tile_3
+  rotate: false
+  xy: 2983, 3
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+trees/DeadTree_01
+  rotate: false
+  xy: 2829, 1929
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+trees/DeadTree_02
+  rotate: false
+  xy: 2504, 1140
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+trees/swamp1
+  rotate: false
+  xy: 3673, 2510
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+trees/tundra2-1
+  rotate: false
+  xy: 2083, 2551
+  size: 480, 480
+  orig: 480, 480
+  offset: 0, 0
+  index: -1
+trees/tundra8
+  rotate: false
+  xy: 1602, 2551
+  size: 480, 480
+  orig: 480, 480
+  offset: 0, 0
+  index: -1
+weapons/dagger
+  rotate: false
+  xy: 2983, 324
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+weapons/greatAxe
+  rotate: false
+  xy: 3471, 1582
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+weapons/ironSword
+  rotate: false
+  xy: 3150, 1357
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+weapons/onehanded
+  rotate: false
+  xy: 3467, 940
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+
+textures2.png
+size: 4096,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+FriendlyNPC's/wizard
+  rotate: false
+  xy: 1927, 666
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+UI/player_exp_bar
+  rotate: false
+  xy: 1, 117
+  size: 303, 6
+  orig: 303, 6
+  offset: 0, 0
+  index: -1
+UI/player_mech
+  rotate: false
+  xy: 2771, 194
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+debug/collision_debug_box
+  rotate: false
+  xy: 2000, 64
+  size: 247, 280
+  orig: 247, 280
+  offset: 0, 0
+  index: -1
+debug/collision_debug_point
+  rotate: false
+  xy: 2771, 398
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+debug/missingtexture
+  rotate: false
+  xy: 3246, 256
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+debug/square-select
+  rotate: false
+  xy: 3284, 385
+  size: 247, 280
+  orig: 247, 280
+  offset: 0, 0
+  index: -1
+enemies/blindness_projectile
+  rotate: false
+  xy: 2637, 17
+  size: 135, 135
+  orig: 135, 135
+  offset: 0, 0
+  index: -1
+enemies/buff-icon/white_pixel
+  rotate: false
+  xy: 3246, 385
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+enemies/desert/boss/web
+  rotate: false
+  xy: 1606, 345
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+enemies/desert/boss/web_projectile
+  rotate: false
+  xy: 3717, 286
+  size: 50, 100
+  orig: 50, 100
+  offset: 0, 0
+  index: -1
+enemies/tundra/common/tundra_common
+  rotate: false
+  xy: 2537, 415
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+enemies/volcano/boss/fireball
+  rotate: false
+  xy: 3666, 286
+  size: 50, 100
+  orig: 50, 100
+  offset: 0, 0
+  index: -1
+fences/fence_E-W
+  rotate: false
+  xy: 1181, 24
+  size: 272, 320
+  orig: 272, 320
+  offset: 0, 0
+  index: -1
+fences/fence_N-W
+  rotate: false
+  xy: 1454, 24
+  size: 272, 320
+  orig: 272, 320
+  offset: 0, 0
+  index: -1
+fences/fence_S-E
+  rotate: false
+  xy: 1727, 24
+  size: 272, 320
+  orig: 272, 320
+  offset: 0, 0
+  index: -1
+hero_models/bar
+  rotate: false
+  xy: 1, 52
+  size: 188, 64
+  orig: 188, 64
+  offset: 0, 0
+  index: -1
+items/health_potion
+  rotate: false
+  xy: 3780, 404
+  size: 241, 261
+  orig: 241, 261
+  offset: 0, 0
+  index: -1
+items/mana_potion
+  rotate: false
+  xy: 2529, 153
+  size: 241, 261
+  orig: 241, 261
+  offset: 0, 0
+  index: -1
+items/tool_kit
+  rotate: false
+  xy: 1, 445
+  size: 320, 220
+  orig: 320, 220
+  offset: 0, 0
+  index: -1
+mech/mech_idle_down
+  rotate: false
+  xy: 3375, 288
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+mech/mech_idle_left
+  rotate: false
+  xy: 190, 20
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+mech/mech_idle_right
+  rotate: false
+  xy: 3472, 288
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+mech/mech_idle_up
+  rotate: false
+  xy: 3569, 290
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+mech/mech_ranged_down
+  rotate: false
+  xy: 322, 152
+  size: 288, 192
+  orig: 288, 192
+  offset: 0, 0
+  index: -1
+mech/mech_ranged_left
+  rotate: false
+  xy: 2248, 794
+  size: 288, 192
+  orig: 288, 192
+  offset: 0, 0
+  index: -1
+mech/mech_ranged_right
+  rotate: false
+  xy: 611, 152
+  size: 288, 192
+  orig: 288, 192
+  offset: 0, 0
+  index: -1
+mech/mech_ranged_up
+  rotate: false
+  xy: 2248, 601
+  size: 288, 192
+  orig: 288, 192
+  offset: 0, 0
+  index: -1
+orbs/Pixel_art_orb_desertb
+  rotate: false
+  xy: 3942, 846
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+orbs/Pixel_art_orb_snowb
+  rotate: false
+  xy: 2964, 246
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+orbs/Pixel_art_orb_swampb
+  rotate: false
+  xy: 3942, 705
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+orbs/Pixel_art_orb_volcanob
+  rotate: false
+  xy: 3105, 246
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+orbs/orbBar
+  rotate: false
+  xy: 2496, 12
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+rocks/rock_desert
+  rotate: false
+  xy: 3099, 666
+  size: 280, 320
+  orig: 280, 320
+  offset: 0, 0
+  index: -1
+rocks/rock_desert_02
+  rotate: false
+  xy: 3380, 666
+  size: 280, 320
+  orig: 280, 320
+  offset: 0, 0
+  index: -1
+rocks/tundraRock2
+  rotate: false
+  xy: 964, 666
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+tiles/ice
+  rotate: false
+  xy: 2788, 387
+  size: 247, 278
+  orig: 247, 278
+  offset: 0, 0
+  index: -1
+tiles/lava
+  rotate: false
+  xy: 3036, 387
+  size: 247, 278
+  orig: 247, 278
+  offset: 0, 0
+  index: -1
+tiles/swampi2-1
+  rotate: false
+  xy: 3661, 666
+  size: 280, 320
+  orig: 280, 320
+  offset: 0, 0
+  index: -1
+tiles/swampi2-2
+  rotate: false
+  xy: 2248, 280
+  size: 280, 320
+  orig: 280, 320
+  offset: 0, 0
+  index: -1
+tiles/swampi2-3
+  rotate: false
+  xy: 900, 24
+  size: 280, 320
+  orig: 280, 320
+  offset: 0, 0
+  index: -1
+tiles/transparent_tile
+  rotate: false
+  xy: 3532, 387
+  size: 247, 278
+  orig: 247, 278
+  offset: 0, 0
+  index: -1
+tiles/tundra10
+  rotate: false
+  xy: 1, 124
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+tiles/tundra11
+  rotate: false
+  xy: 322, 345
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+tiles/tundra14
+  rotate: false
+  xy: 643, 666
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+tiles/tundra15
+  rotate: false
+  xy: 643, 345
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+tiles/volcano_01
+  rotate: false
+  xy: 964, 345
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+tiles/volcano_02
+  rotate: false
+  xy: 1285, 666
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+tiles/volcano_03
+  rotate: false
+  xy: 1285, 345
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+tiles/water
+  rotate: false
+  xy: 2248, 1
+  size: 247, 278
+  orig: 247, 278
+  offset: 0, 0
+  index: -1
+trees/cactus_desert
+  rotate: false
+  xy: 2537, 666
+  size: 280, 320
+  orig: 280, 320
+  offset: 0, 0
+  index: -1
+trees/cactus_desert_02
+  rotate: false
+  xy: 2818, 666
+  size: 280, 320
+  orig: 280, 320
+  offset: 0, 0
+  index: -1
+trees/swamp2
+  rotate: false
+  xy: 1, 666
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+trees/tundra2
+  rotate: false
+  xy: 322, 666
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+weapons/wand
+  rotate: false
+  xy: 1606, 666
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+weapons/woodBow
+  rotate: false
+  xy: 1927, 345
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,19 @@
+<?xml version = "1.0"?>
+<root>
+    <initialBranch question="Initial Branch Dialogue" text="1: initial dialogue option 1">
+        <branch question="branch 1 question" text="1: branch 1 dialogue option 1" end="true" buff="none">
+        </branch>
+        <branch text="2 : branch 1 dialogue option 2">
+        </branch>
+    </initialBranch>
+    <initialBranch text="2: initial dialogue option 2">
+        <branch question="branch 2 question" text="1 : branch 2 dialogue option 1" end="true" buff="none">
+            <branch question="branch 3 question" text="1 : branch 3 dialogue option 1" end="true" buff="none">
+            </branch>
+            <branch text="2 : branch 3 dialogue option 2">
+            </branch>
+        </branch>
+        <branch text="2 : branch 2 dialogue option 2">
+        </branch>
+    </initialBranch>
+</root>

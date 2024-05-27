@@ -1,0 +1,1321 @@
+
+textures.png
+size: 4096,4096
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+FriendlyNPC's/MaleVillager_Spritesheet
+  rotate: false
+  xy: 1, 2988
+  size: 1920, 320
+  orig: 1920, 320
+  offset: 0, 0
+  index: -1
+UI/Game Controls
+  rotate: false
+  xy: 1, 2187
+  size: 1200, 800
+  orig: 1200, 800
+  offset: 0, 0
+  index: -1
+UI/Settingscreen
+  rotate: false
+  xy: 802, 1027
+  size: 775, 518
+  orig: 775, 518
+  offset: 0, 0
+  index: -1
+UI/Swordslider
+  rotate: false
+  xy: 3404, 1929
+  size: 506, 481
+  orig: 506, 481
+  offset: 0, 0
+  index: -1
+UI/gamecontrols2
+  rotate: false
+  xy: 1202, 1867
+  size: 1200, 800
+  orig: 1200, 800
+  offset: 0, 0
+  index: -1
+UI/player_stat_base
+  rotate: false
+  xy: 1, 1072
+  size: 800, 600
+  orig: 800, 600
+  offset: 0, 0
+  index: -1
+UI/speechbaloon
+  rotate: false
+  xy: 2347, 1068
+  size: 700, 341
+  orig: 700, 341
+  offset: 0, 0
+  index: -1
+background
+  rotate: false
+  xy: 1, 553
+  size: 775, 518
+  orig: 775, 518
+  offset: 0, 0
+  index: -1
+enemies/desert/boss/boss_minion/desert_boss_minion_spritesheet
+  rotate: false
+  xy: 2502, 3673
+  size: 1225, 350
+  orig: 1225, 350
+  offset: 0, 0
+  index: -1
+enemies/desert/boss/desert_boss_spritesheet
+  rotate: false
+  xy: 1, 3309
+  size: 2500, 714
+  orig: 2500, 714
+  offset: 0, 0
+  index: -1
+enemies/dummy_enemy
+  rotate: false
+  xy: 3523, 2887
+  size: 500, 528
+  orig: 500, 528
+  offset: 0, 0
+  index: -1
+enemies/swamp/boss/swamp_boss_spritesheet_left
+  rotate: false
+  xy: 1026, 1546
+  size: 960, 320
+  orig: 960, 320
+  offset: 0, 0
+  index: -1
+enemies/tundra/boss/tundra_boss
+  rotate: false
+  xy: 3404, 1428
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+enemies/tundra/boss/tundra_boss_spritesheet
+  rotate: false
+  xy: 2403, 1410
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+enemies/tundra/common/tundra_common_spritesheet
+  rotate: false
+  xy: 3059, 158
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+enemies/tundra/melee/tundra_melee_spritesheet
+  rotate: false
+  xy: 2308, 26
+  size: 750, 750
+  orig: 750, 750
+  offset: 0, 0
+  index: -1
+enemies/tundra/ranged/tundra_ranged_spritesheet
+  rotate: false
+  xy: 3059, 659
+  size: 750, 750
+  orig: 750, 750
+  offset: 0, 0
+  index: -1
+enemies/volcano/boss/volcano_boss_spritesheet_left
+  rotate: false
+  xy: 1922, 2668
+  size: 1600, 640
+  orig: 1600, 640
+  offset: 0, 0
+  index: -1
+item_window
+  rotate: false
+  xy: 3523, 2525
+  size: 481, 361
+  orig: 481, 361
+  offset: 0, 0
+  index: -1
+mech/mech_breakdown
+  rotate: false
+  xy: 1578, 777
+  size: 768, 768
+  orig: 768, 768
+  offset: 0, 0
+  index: -1
+mech/mech_ranged_down
+  rotate: false
+  xy: 777, 514
+  size: 768, 512
+  orig: 768, 512
+  offset: 0, 0
+  index: -1
+mech/mech_ranged_left
+  rotate: false
+  xy: 1, 40
+  size: 768, 512
+  orig: 768, 512
+  offset: 0, 0
+  index: -1
+mech/mech_ranged_right
+  rotate: false
+  xy: 770, 1
+  size: 768, 512
+  orig: 768, 512
+  offset: 0, 0
+  index: -1
+mech/mech_ranged_up
+  rotate: false
+  xy: 1539, 1
+  size: 768, 512
+  orig: 768, 512
+  offset: 0, 0
+  index: -1
+mech/mech_walk_down
+  rotate: false
+  xy: 2502, 3416
+  size: 1024, 256
+  orig: 1024, 256
+  offset: 0, 0
+  index: -1
+mech/mech_walk_left
+  rotate: false
+  xy: 1, 1930
+  size: 1024, 256
+  orig: 1024, 256
+  offset: 0, 0
+  index: -1
+mech/mech_walk_right
+  rotate: false
+  xy: 1, 1673
+  size: 1024, 256
+  orig: 1024, 256
+  offset: 0, 0
+  index: -1
+mech/mech_walk_up
+  rotate: false
+  xy: 2403, 2411
+  size: 1024, 256
+  orig: 1024, 256
+  offset: 0, 0
+  index: -1
+trees/tundra8
+  rotate: false
+  xy: 3560, 178
+  size: 480, 480
+  orig: 480, 480
+  offset: 0, 0
+  index: -1
+
+textures2.png
+size: 4096,4096
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+FriendlyNPC's/MaleVillager
+  rotate: false
+  xy: 2588, 3768
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+FriendlyNPC's/Rogue
+  rotate: false
+  xy: 2909, 3768
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+FriendlyNPC's/RogueFace
+  rotate: false
+  xy: 3230, 3768
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+FriendlyNPC's/Villagerface
+  rotate: false
+  xy: 442, 2687
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+FriendlyNPC's/WizardFace
+  rotate: false
+  xy: 442, 2366
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+FriendlyNPC's/merchant_front
+  rotate: false
+  xy: 1224, 1732
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+FriendlyNPC's/merchant_left
+  rotate: false
+  xy: 657, 119
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+FriendlyNPC's/merchant_right
+  rotate: false
+  xy: 984, 440
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+FriendlyNPC's/merchant_with_shades
+  rotate: false
+  xy: 978, 119
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+FriendlyNPC's/wizard
+  rotate: false
+  xy: 1299, 119
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+FriendlyNPC's/wizard_NPC_dialog
+  rotate: false
+  xy: 1620, 119
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+FriendlyNPC's/wizard_face_left
+  rotate: false
+  xy: 874, 3474
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+FriendlyNPC's/wizard_face_right
+  rotate: false
+  xy: 1192, 1539
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+FriendlyNPC's/wizard_face_toward
+  rotate: false
+  xy: 1195, 3315
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+UI/Backbutton
+  rotate: false
+  xy: 1, 3008
+  size: 462, 599
+  orig: 462, 599
+  offset: 0, 0
+  index: -1
+UI/CTS
+  rotate: false
+  xy: 1, 343
+  size: 334, 132
+  orig: 334, 132
+  offset: 0, 0
+  index: -1
+UI/CTS-1
+  rotate: false
+  xy: 482, 3627
+  size: 335, 131
+  orig: 335, 131
+  offset: 0, 0
+  index: -1
+UI/LOADGAME
+  rotate: false
+  xy: 1, 211
+  size: 334, 131
+  orig: 334, 131
+  offset: 0, 0
+  index: -1
+UI/LOADGAME-1
+  rotate: false
+  xy: 1, 78
+  size: 334, 132
+  orig: 334, 132
+  offset: 0, 0
+  index: -1
+UI/SETTING
+  rotate: false
+  xy: 933, 3927
+  size: 333, 130
+  orig: 333, 130
+  offset: 0, 0
+  index: -1
+UI/SETTING-1
+  rotate: false
+  xy: 874, 3795
+  size: 333, 131
+  orig: 333, 131
+  offset: 0, 0
+  index: -1
+UI/SINGLEPLAYER
+  rotate: false
+  xy: 1613, 3959
+  size: 332, 129
+  orig: 332, 129
+  offset: 0, 0
+  index: -1
+UI/SINGLEPLAYER-1
+  rotate: false
+  xy: 1279, 3957
+  size: 333, 131
+  orig: 333, 131
+  offset: 0, 0
+  index: -1
+UI/mech_health_bar
+  rotate: false
+  xy: 933, 4058
+  size: 345, 30
+  orig: 345, 30
+  offset: 0, 0
+  index: -1
+UI/player_exp_bar
+  rotate: false
+  xy: 1, 71
+  size: 303, 6
+  orig: 303, 6
+  offset: 0, 0
+  index: -1
+UI/player_health_bar
+  rotate: false
+  xy: 482, 3759
+  size: 345, 30
+  orig: 345, 30
+  offset: 0, 0
+  index: -1
+UI/player_hurt_bar
+  rotate: false
+  xy: 1, 867
+  size: 345, 30
+  orig: 345, 30
+  offset: 0, 0
+  index: -1
+UI/player_mech
+  rotate: false
+  xy: 1031, 1700
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+UI/player_status_bar
+  rotate: false
+  xy: 482, 3992
+  size: 450, 96
+  orig: 450, 96
+  offset: 0, 0
+  index: -1
+building/castletower_placeholder
+  rotate: false
+  xy: 1, 476
+  size: 340, 390
+  orig: 340, 390
+  offset: 0, 0
+  index: -1
+debug/collision_debug_box
+  rotate: false
+  xy: 3835, 3487
+  size: 247, 280
+  orig: 247, 280
+  offset: 0, 0
+  index: -1
+debug/collision_debug_point
+  rotate: false
+  xy: 347, 881
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+debug/missingtexture
+  rotate: false
+  xy: 1060, 3345
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+debug/square-select
+  rotate: false
+  xy: 1020, 2679
+  size: 247, 280
+  orig: 247, 280
+  offset: 0, 0
+  index: -1
+enemies/blindness_projectile
+  rotate: false
+  xy: 1031, 1403
+  size: 135, 135
+  orig: 135, 135
+  offset: 0, 0
+  index: -1
+enemies/buff-icon/blind-icon
+  rotate: false
+  xy: 389, 2045
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+enemies/buff-icon/burn-icon
+  rotate: false
+  xy: 389, 1724
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+enemies/buff-icon/frozen-icon-2
+  rotate: false
+  xy: 710, 2045
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+enemies/buff-icon/poison-icon
+  rotate: false
+  xy: 1588, 3636
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+enemies/buff-icon/white_pixel
+  rotate: false
+  xy: 1613, 3957
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+enemies/desert/boss/web
+  rotate: false
+  xy: 1305, 440
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+enemies/desert/boss/web_projectile
+  rotate: false
+  xy: 1837, 3535
+  size: 50, 100
+  orig: 50, 100
+  offset: 0, 0
+  index: -1
+enemies/slash
+  rotate: false
+  xy: 1, 1650
+  size: 387, 372
+  orig: 387, 372
+  offset: 0, 0
+  index: -1
+enemies/swamp/green_slash
+  rotate: false
+  xy: 1, 2023
+  size: 387, 372
+  orig: 387, 372
+  offset: 0, 0
+  index: -1
+enemies/tundra/common/tundra_common
+  rotate: false
+  xy: 763, 2452
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+enemies/tundra/melee/tundra_melee
+  rotate: false
+  xy: 1, 1274
+  size: 375, 375
+  orig: 375, 375
+  offset: 0, 0
+  index: -1
+enemies/tundra/ranged/tundra_ranged
+  rotate: false
+  xy: 1, 898
+  size: 375, 375
+  orig: 375, 375
+  offset: 0, 0
+  index: -1
+enemies/volcano/boss/fireball
+  rotate: false
+  xy: 1208, 3826
+  size: 50, 100
+  orig: 50, 100
+  offset: 0, 0
+  index: -1
+fences/fence_E-W
+  rotate: false
+  xy: 2961, 3126
+  size: 272, 320
+  orig: 272, 320
+  offset: 0, 0
+  index: -1
+fences/fence_N-E
+  rotate: false
+  xy: 336, 167
+  size: 320, 272
+  orig: 320, 272
+  offset: 0, 0
+  index: -1
+fences/fence_N-S
+  rotate: false
+  xy: 482, 3354
+  size: 320, 272
+  orig: 320, 272
+  offset: 0, 0
+  index: -1
+fences/fence_N-W
+  rotate: false
+  xy: 3234, 3126
+  size: 272, 320
+  orig: 272, 320
+  offset: 0, 0
+  index: -1
+fences/fence_S-E
+  rotate: false
+  xy: 3507, 2905
+  size: 272, 320
+  orig: 272, 320
+  offset: 0, 0
+  index: -1
+fences/fence_S-W
+  rotate: false
+  xy: 464, 3081
+  size: 320, 272
+  orig: 320, 272
+  offset: 0, 0
+  index: -1
+hero_models/bar
+  rotate: false
+  xy: 336, 102
+  size: 188, 64
+  orig: 188, 64
+  offset: 0, 0
+  index: -1
+hero_models/knight_placeholder
+  rotate: false
+  xy: 663, 440
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+itemBar1
+  rotate: false
+  xy: 698, 1082
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+itemBar_placeholder
+  rotate: false
+  xy: 698, 761
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+items/armour
+  rotate: false
+  xy: 3872, 3817
+  size: 221, 271
+  orig: 221, 271
+  offset: 0, 0
+  index: -1
+items/extra_health
+  rotate: false
+  xy: 3835, 3295
+  size: 220, 191
+  orig: 220, 191
+  offset: 0, 0
+  index: -1
+items/health_potion
+  rotate: false
+  xy: 1014, 2417
+  size: 241, 261
+  orig: 241, 261
+  offset: 0, 0
+  index: -1
+items/item_button
+  rotate: false
+  xy: 482, 3790
+  size: 391, 201
+  orig: 391, 201
+  offset: 0, 0
+  index: -1
+items/item_button_pressed
+  rotate: false
+  xy: 1, 2396
+  size: 391, 200
+  orig: 391, 200
+  offset: 0, 0
+  index: -1
+items/mana_potion
+  rotate: false
+  xy: 1031, 2155
+  size: 241, 261
+  orig: 241, 261
+  offset: 0, 0
+  index: -1
+items/placeholder
+  rotate: false
+  xy: 874, 3941
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+items/speed_potion
+  rotate: false
+  xy: 1031, 1893
+  size: 241, 261
+  orig: 241, 261
+  offset: 0, 0
+  index: -1
+items/tool_kit
+  rotate: false
+  xy: 3514, 3547
+  size: 320, 220
+  orig: 320, 220
+  offset: 0, 0
+  index: -1
+mech/mech_breakdown_still
+  rotate: false
+  xy: 3780, 2969
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+mech/mech_idle_down
+  rotate: false
+  xy: 3780, 2712
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+mech/mech_idle_left
+  rotate: false
+  xy: 803, 3217
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+mech/mech_idle_right
+  rotate: false
+  xy: 785, 2960
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+mech/mech_idle_up
+  rotate: false
+  xy: 763, 2703
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+mech/mech_projectile
+  rotate: false
+  xy: 1, 38
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: -1
+mech/mech_projectile_still
+  rotate: false
+  xy: 1031, 1539
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+orbs/Pixel_art_orb_desertb
+  rotate: false
+  xy: 1167, 1438
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+orbs/Pixel_art_orb_snowb
+  rotate: false
+  xy: 1060, 3244
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+orbs/Pixel_art_orb_swampb
+  rotate: false
+  xy: 1268, 1438
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+orbs/Pixel_art_orb_volcanob
+  rotate: false
+  xy: 525, 66
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+orbs/orbBar
+  rotate: false
+  xy: 1161, 3214
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+rocks/TundraRock2-3
+  rotate: false
+  xy: 3551, 3768
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+rocks/rock_01
+  rotate: false
+  xy: 1909, 3447
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+rocks/rock_02
+  rotate: false
+  xy: 2230, 3447
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+rocks/rock_desert
+  rotate: false
+  xy: 2399, 3126
+  size: 280, 320
+  orig: 280, 320
+  offset: 0, 0
+  index: -1
+rocks/rock_desert_02
+  rotate: false
+  xy: 2680, 3126
+  size: 280, 320
+  orig: 280, 320
+  offset: 0, 0
+  index: -1
+rocks/rockplaceholder2
+  rotate: false
+  xy: 1, 2597
+  size: 440, 410
+  orig: 440, 410
+  offset: 0, 0
+  index: -1
+rocks/tundraRock2
+  rotate: false
+  xy: 1019, 1082
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+stats
+  rotate: false
+  xy: 2551, 3447
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+terrain/general/water
+  rotate: false
+  xy: 928, 2378
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_0
+  rotate: false
+  xy: 763, 2415
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_1
+  rotate: false
+  xy: 3872, 3780
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_10
+  rotate: false
+  xy: 3905, 3780
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_11
+  rotate: false
+  xy: 3868, 3258
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_12
+  rotate: false
+  xy: 34, 1
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_13
+  rotate: false
+  xy: 1295, 3278
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_14
+  rotate: false
+  xy: 1262, 3241
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_15
+  rotate: false
+  xy: 1837, 3461
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_2
+  rotate: false
+  xy: 3835, 3258
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_3
+  rotate: false
+  xy: 1, 1
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_4
+  rotate: false
+  xy: 1262, 3278
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_5
+  rotate: false
+  xy: 1837, 3498
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_6
+  rotate: false
+  xy: 393, 2523
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_7
+  rotate: false
+  xy: 497, 3044
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_8
+  rotate: false
+  xy: 796, 2415
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/mud/directional_tiles/mud_9
+  rotate: false
+  xy: 763, 2378
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/swamp/water/directional_tiles/water_15
+  rotate: false
+  xy: 1460, 3278
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/tundra/ice/directional_tiles/ice_15
+  rotate: false
+  xy: 393, 2560
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/tundra/snow/directional_tiles/snow_0
+  rotate: false
+  xy: 393, 2486
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/tundra/snow/directional_tiles/snow_1
+  rotate: false
+  xy: 530, 3044
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/tundra/snow/directional_tiles/snow_10
+  rotate: false
+  xy: 563, 3044
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/tundra/snow/directional_tiles/snow_11
+  rotate: false
+  xy: 862, 2415
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/tundra/snow/directional_tiles/snow_12
+  rotate: false
+  xy: 829, 2378
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/tundra/snow/directional_tiles/snow_13
+  rotate: false
+  xy: 3971, 3780
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/tundra/snow/directional_tiles/snow_14
+  rotate: false
+  xy: 3934, 3258
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/tundra/snow/directional_tiles/snow_15
+  rotate: false
+  xy: 1361, 3278
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/tundra/snow/directional_tiles/snow_2
+  rotate: false
+  xy: 829, 2415
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/tundra/snow/directional_tiles/snow_3
+  rotate: false
+  xy: 796, 2378
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/tundra/snow/directional_tiles/snow_4
+  rotate: false
+  xy: 3938, 3780
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/tundra/snow/directional_tiles/snow_5
+  rotate: false
+  xy: 3901, 3258
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/tundra/snow/directional_tiles/snow_6
+  rotate: false
+  xy: 67, 1
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/tundra/snow/directional_tiles/snow_7
+  rotate: false
+  xy: 1328, 3278
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/tundra/snow/directional_tiles/snow_8
+  rotate: false
+  xy: 1295, 3241
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/tundra/snow/directional_tiles/snow_9
+  rotate: false
+  xy: 393, 2449
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/util/transparent_tile
+  rotate: false
+  xy: 1328, 3241
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/volcano/ground/directional_tiles/volcano_ground_0
+  rotate: false
+  xy: 393, 2412
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/volcano/ground/directional_tiles/volcano_ground_1
+  rotate: false
+  xy: 596, 3044
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/volcano/ground/directional_tiles/volcano_ground_10
+  rotate: false
+  xy: 895, 2378
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/volcano/ground/directional_tiles/volcano_ground_11
+  rotate: false
+  xy: 4037, 3780
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/volcano/ground/directional_tiles/volcano_ground_12
+  rotate: false
+  xy: 4000, 3258
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/volcano/ground/directional_tiles/volcano_ground_13
+  rotate: false
+  xy: 1427, 3278
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/volcano/ground/directional_tiles/volcano_ground_14
+  rotate: false
+  xy: 1394, 3241
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/volcano/ground/directional_tiles/volcano_ground_15
+  rotate: false
+  xy: 662, 3044
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/volcano/ground/directional_tiles/volcano_ground_2
+  rotate: false
+  xy: 895, 2415
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/volcano/ground/directional_tiles/volcano_ground_3
+  rotate: false
+  xy: 862, 2378
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/volcano/ground/directional_tiles/volcano_ground_4
+  rotate: false
+  xy: 4004, 3780
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/volcano/ground/directional_tiles/volcano_ground_5
+  rotate: false
+  xy: 3967, 3258
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/volcano/ground/directional_tiles/volcano_ground_6
+  rotate: false
+  xy: 1394, 3278
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/volcano/ground/directional_tiles/volcano_ground_7
+  rotate: false
+  xy: 1361, 3241
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/volcano/ground/directional_tiles/volcano_ground_8
+  rotate: false
+  xy: 629, 3044
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/volcano/ground/directional_tiles/volcano_ground_9
+  rotate: false
+  xy: 928, 2415
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/volcano/lava/directional_tiles/lava_15
+  rotate: false
+  xy: 464, 3044
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+terrain/volcano/spawn/directional_tiles/volcano_spawn_15
+  rotate: false
+  xy: 961, 2415
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+tiles/desert_tile_1
+  rotate: false
+  xy: 377, 1082
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+tiles/desert_tile_2
+  rotate: false
+  xy: 377, 761
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+tiles/desert_tile_3
+  rotate: false
+  xy: 342, 440
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+trees/DeadTree_01
+  rotate: false
+  xy: 1946, 3768
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+trees/DeadTree_02
+  rotate: false
+  xy: 2267, 3768
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+trees/cactus_desert
+  rotate: false
+  xy: 1837, 3126
+  size: 280, 320
+  orig: 280, 320
+  offset: 0, 0
+  index: -1
+trees/cactus_desert_02
+  rotate: false
+  xy: 2118, 3126
+  size: 280, 320
+  orig: 280, 320
+  offset: 0, 0
+  index: -1
+trees/swamp1
+  rotate: false
+  xy: 2872, 3447
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+trees/swamp2
+  rotate: false
+  xy: 3193, 3447
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+trees/tundra2
+  rotate: false
+  xy: 3514, 3226
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+trees/tundra2-1
+  rotate: false
+  xy: 1, 3608
+  size: 480, 480
+  orig: 480, 480
+  offset: 0, 0
+  index: -1
+weapons/dagger
+  rotate: false
+  xy: 389, 1403
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+weapons/greatAxe
+  rotate: false
+  xy: 710, 1724
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+weapons/ironSword
+  rotate: false
+  xy: 710, 1403
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+weapons/onehanded
+  rotate: false
+  xy: 1267, 3636
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+weapons/wand
+  rotate: false
+  xy: 1019, 761
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+weapons/woodBow
+  rotate: false
+  xy: 1516, 3315
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1

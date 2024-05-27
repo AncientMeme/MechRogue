@@ -1,0 +1,55 @@
+<?xml version = "1.0"?>
+<root>
+    <initialBranch question="We meet again..." text="1: Fiendish Rogue! You appear once more!">
+        <branch question="Fate punishes us both..." text="1: I more than thee">
+                <branch question="As you say... How goes thy quest?" text="1: Why do you ask?">
+                        <branch question="Never mind...you spite yourself, Hero..." text="1: To be trusting would be folly" end="true" buff="none">
+                        </branch>
+                        <branch text="">
+                        </branch>
+                </branch>
+                <branch text="2: Poorly, I'm afraid.">
+                       <branch question="If you're to succeed you will need this. (BUFF)" text="1: ...a rogue granting succor, why?">
+                            <branch question="I was an adventurer too, once..." text="*You leave him to ponder*" end="true" buff="none">
+                            </branch>
+                            <branch text="">
+                            </branch>
+                       </branch>
+                       <branch text="2 : Is this a trick?">
+                            <branch question="Men in rage strike those that wish them best." text="Fine, speak in riddles *leave*" end="true" buff="none">
+                            </branch>
+                            <branch text="">
+                            </branch>
+                       </branch>
+                </branch>
+        </branch>
+        <branch text="2: Evil doer! Wretched of the earth! You pollute this great land with your iniquity and--">
+            <branch question="...That is...hurtful..." text="1: --vice, sin, turpitude, villiai-">
+                        <branch question="I'm leaving" text="1: --immorality, degeneracy, atrociti-- *rant as he leaves*" end="true" buff="none">
+                        </branch>
+                        <branch text="2: Good riddance!">
+                        </branch>
+            </branch>
+            <branch text="2: Sorry... I got carried away">
+                <branch question="...It's...okay..." text="1: Yeah *you collect yourself* anyway how are you Henry!">
+                    <branch question="I'm... I think you ruined my day... Here, I wanted to give you this... (BUFF)" text="1: Okay. Thankyou, though I really am sorry Henry" end="true" buff="none">
+                    </branch>
+                    <branch text="2: Be a sourpuss then">
+                    </branch>
+                </branch>
+                <branch text="2: I just get so into the role-play sometimes man">
+                    <branch question="...You don't have to be so mean... My anxiety's kicking up... Im gonna go home..." text="1: I said I was sorry" end="true" buff="none">
+                    </branch>
+                    <branch text="2: *Whispers as he walks away* Yeah, well, maybe you deserve it...">
+                    </branch>
+                </branch>
+            </branch>
+        </branch>
+    </initialBranch>
+    <initialBranch text="2: Not you again! I don't have time for this">
+        <branch question="Have it your way then!!" text="1 : ..." end="true" buff="none">
+        </branch>
+        <branch text="">
+        </branch>
+    </initialBranch>
+</root>

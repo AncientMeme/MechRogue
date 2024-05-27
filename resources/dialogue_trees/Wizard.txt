@@ -1,0 +1,23 @@
+<?xml version = "1.0"?>
+<root>
+    <initialBranch question="Hello Traveller! How goes thee?" text="1: Very good, venerable wizard">
+        <branch question="That's nice to hear" text="1. ...yes it is">
+            <branch question="...Are you going to just linger?" text="1 : No... Seems like I won't" end="true" buff="none">
+            </branch>
+            <branch text="2 : ...........Yes.">
+            </branch>
+        </branch>
+        <branch text="2. I have work that needs doing but I hope you have a nice day!">
+            <branch question="Wait! Here, let me buff you. (BUFF)" text="Thank you!" end="true" buff="none">
+            </branch>
+            <branch text="">
+            </branch>
+        </branch>
+    </initialBranch>
+    <initialBranch text="2: Shut up old man">
+        <branch question="I like your spunk, reminds me of when I was a young la--" text="1 : Beat it old man" end="true" buff="none">
+        </branch>
+        <branch text="">
+        </branch>
+    </initialBranch>
+</root>
